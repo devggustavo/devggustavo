@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo Dias 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu_gustavodias/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dias-vieira-5b6a9020b/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devgustavo//)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=devggustavo&show_icons=true&theme=dracula)
 
